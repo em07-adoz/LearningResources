@@ -3,12 +3,12 @@
 Welcome to the **Cybersecurity Learning Resources** repository! Here, you'll find a curated list of resources organized from beginner to advanced levels. Whether you're just starting out or looking to advance your skills, these resources will guide you through the journey of becoming a proficient cybersecurity professional.
 
 ## 📑 Table of Contents
-1. [Beginner Level](#-beginner-level)
-2. [Intermediate Level](#-intermediate-level)
-3. [Advanced Level](#-advanced-level)
-4. [Additional Resources](#-additional-resources)
+1. [Beginners Level](#beginners-level)
+2. [Intermediate Level](#intermediate-level)
+3. [Advanced Level](#advanced-level)
+4. [Additional Resources](#additional-resources)
 5. [Communities & Forums](#communities--forums)
-6. [Contribute](#-contribute)
+6. [Contribute](#contribute)
 
 ## Beginners Level
 These resources are designed for those just starting out in cybersecurity and provide foundational knowledge.
@@ -94,7 +94,7 @@ For professionals and those looking to specialize in specific areas like reverse
 - **[GIAC Certified Incident Handler (GCIH)](https://www.giac.org/certification/certified-incident-handler-gcih)**
   - Free resources to prepare for an advanced incident handling and defense certification.
 
-## Additional Resource
+## Additional Resources
 1. **Tools**
 - **[Kali Linux](https://www.kali.org/)**
   - The go-to Linux distribution for penetration testing and security research.
@@ -119,7 +119,7 @@ For professionals and those looking to specialize in specific areas like reverse
 - **[Cybersecurity Discords](https://github.com/infosec-community/InfoSec-Discord)** 
   - A collection of InfoSec communities for networking and learning.
 
-## 🤝 Contribute
+## Contribute
 
 Want to add a resource? Contributions are welcome! Please check out the [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines on how to add more resources to this repository.
 
