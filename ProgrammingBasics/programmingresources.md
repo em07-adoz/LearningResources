@@ -7,7 +7,7 @@ Welcome to the **Programming Basics Learning Resources** repository! Here, you'l
 2. [JavaScript](#javascript)
 3. [C++](#cpp)
 4. [Java](#java)
-5. [HTML & CSS](#html-css)
+5. [HTML & CSS](#html--css)
 6. [SQL](#sql)
 7. [C](#c)
 8. [Go](#go)
