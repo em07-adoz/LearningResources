@@ -45,11 +45,11 @@ Access resources for mobile development, including  iOS and Android platforms. F
 Access resources for product design. Find tutorials, courses, blogs and communities to help you design and curate excellent user experience.
 - [**Beginners level**](./ProductDesign//ProductDesign.md/#getting-started)
 - [**Intermediate level**](./ProductDesign//ProductDesign.md/#prototyping--design-tools)
-- [**Advanced level**](./ProductDesign//ProductDesign.md.md/#design-systems--ui-kits)
+- [**Advanced level**](./ProductDesign//ProductDesign.md/#design-systems--ui-kits)
 
 ## 👨‍💻Programming Basics
 Access resources to help you kickstart your programming journey. Find tutorials to the 10 most popular programming languages.
-- [**Beginners level**](./ProgrammingBasics//ProgrammingBasics.md)
+- [**Beginners level**](./ProgrammingBasics/programmingbasics.md)
 
 
 
